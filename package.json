@@ -1,0 +1,26 @@
+{
+  "name": "five_fifteen",
+  "version": "0.1.0",
+  "description": "five fifteen project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panduroab/five_fifteen.git"
+  },
+  "author": "https://github.com/panduroab",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/panduroab/five_fifteen/issues"
+  },
+  "homepage": "https://github.com/panduroab/five_fifteen#readme",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  }
+}
